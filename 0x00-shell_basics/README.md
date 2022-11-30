@@ -5,3 +5,5 @@
 4-listmorefiles displays current directory contents, including hidden files starting with using the long format
 5-listfilesdigitonly displays current directory contents in long format, with user and group IDs displayed numerically and hidden ffiles starting with .
 6-firstdirectory displays a script that creates a directory named my_first_directory in the tmp directory
+7-movethatfile Move the file betty from /tmp/ to /tmp/my_first_directory
+8-firstdelete delettes the file betty
